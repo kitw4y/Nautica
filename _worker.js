@@ -2,8 +2,8 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "langop.xyz"; // Ganti dengan domain utama kalian
-const serviceName = "lang"; // Ganti dengan nama workers kalian
-const apiKey = "024f77c95d47f72cd050426b396dd820b5f6c"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const apiKey = "2zgADP4omZgev6cdyhelEI9rZRN2JrHugicBuUaw"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "galanghost6@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "f80c32bdab83ee75313107ca5be2f102"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "8c69f7922ea05df51acddba25f001785"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
